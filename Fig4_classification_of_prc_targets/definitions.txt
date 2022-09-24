@@ -1,0 +1,13 @@
+class_0:={genes with P0>P1,P2} --> 11.14% of genes
+class_1:={genes with P1>P2,P0} --> 67.71% of genes
+class_2:={genes with P2>P0,P1} --> 14.77% of genes
+class_-1:={genes where none of the above applies or too close to call} --> 7.26% of genes
+
+where:
+P0=level of expression in the control case
+P1=level of expression when PRC2 is knocked-out
+P2=level of expression when KMT2D is knocked-out
+
+
+
+
